@@ -17,6 +17,8 @@ You will need more relationships. What are they?
 **Note**: You should draw your domain on paper or on a whiteboard _before you
 start coding_. Remember to identify a single source of truth for your data.
 
+**Note**: This mock code challenge is _more_ challenging than the actual code challenge.
+
 
 ## Topics
 
@@ -88,7 +90,7 @@ attributes specified in the deliverables below.
 
 ## Deliverables
 
-Write the following methods in the classes in the files provided. Feel free to
+Write the following methods in the classes in the files provided or additional model classes you need to create. Feel free to
 build out any helper methods if needed.
 
 Deliverables use the notation `#` for instance methods, and `.` for class
